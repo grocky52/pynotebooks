@@ -1,0 +1,10 @@
+LIST [] IN PYTHON
+
+list is a collection of item of different data type and of which are arranged in a particular order
+they are mutable thus theire content can be changed
+created by use of a  squre brackets or by keyword list
+the list is ordered in a particular way
+list contain a certain number of counts  
+list items are refenced by theire location called indexing which start fro zero
+a reversal indexing in  a list starts fro -1
+list allows dupliication of items  as each holds its definate position
